@@ -1,0 +1,8 @@
+/* Wider gap above than below, so a heading reads as part of the list that follows */
+.section {
+  margin-top: 2rem;
+}
+
+.sectionFields {
+  margin-top: 1rem;
+}
