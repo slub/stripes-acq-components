@@ -179,7 +179,10 @@
   "claiming.modal.sendClaim.preview.status.completed": "Claim sequence completed",
   "claiming.modal.sendClaim.preview.status.notLate": "Only late pieces can be claimed",
   "claiming.modal.sendClaim.preview.status.sequenceNotAvailable": "Claim sequence not available",
+  "claiming.modal.sendClaim.preview.single.statusOnly": "There is no claiming integration for organization \"{vendor}\" with acquisition method \"{acquisitionMethod}\". FOLIO will not send a claim. The piece will only be set to \"Claim sent\" status, so the vendor has to be contacted manually, for example by phone or email.",
+  "claiming.modal.sendClaim.preview.single.sentMultiple": "The claim will be sent through each of the listed integrations.",
   "claiming.modal.sendClaim.preview.send": "Send {count, plural, one {# claim} other {# claims}}",
+  "claiming.modal.sendClaim.preview.setStatus": "Set to \"Claim sent\"",
   "claiming.modal.sendClaim.preview.loadError": "The claim preview could not be loaded",
 
   "referenceNumbers.addReferenceNumbers": "Add vendor reference number",
