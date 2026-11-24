@@ -174,7 +174,7 @@
   "claiming.modal.sendClaim.preview.claimExpiryDate.asEntered": "As entered below",
   "claiming.modal.sendClaim.preview.status.ready": "Ready to send",
   "claiming.modal.sendClaim.preview.status.sentMultiple": "Sent multiple times",
-  "claiming.modal.sendClaim.preview.status.manual": "Manual stages cannot be claimed yet",
+  "claiming.modal.sendClaim.preview.status.manual": "Not sent by FOLIO, status only",
   "claiming.modal.sendClaim.preview.status.noIntegration": "No matching claiming integration",
   "claiming.modal.sendClaim.preview.status.completed": "Claim sequence completed",
   "claiming.modal.sendClaim.preview.status.notLate": "Only late pieces can be claimed",
