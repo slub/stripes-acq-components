@@ -171,6 +171,7 @@
   "claiming.modal.sendClaim.preview.nextStage.value": "{name} ({number} of {count})",
   "claiming.modal.sendClaim.preview.nextStage.completed": "Completed ({count} of {count})",
   "claiming.modal.sendClaim.preview.sentVia.manual": "Manual",
+  "claiming.modal.sendClaim.preview.sentVia.openIntegration": "{name} (opens in a new tab)",
   "claiming.modal.sendClaim.preview.claimExpiryDate.asEntered": "As entered below",
   "claiming.modal.sendClaim.preview.status.ready": "Ready to send",
   "claiming.modal.sendClaim.preview.status.sentMultiple": "Sent multiple times",
